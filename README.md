@@ -1,4 +1,4 @@
-# flutter_catalog
+# SpecialCare Solutions
 
 A new Flutter project.
 
